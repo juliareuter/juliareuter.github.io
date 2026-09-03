@@ -6,6 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "UFABC Santo André"
 date: 2026-09-21
 location: "Santo André, SP, Brazil"
+excerpt: "3rd semester, 2026"
 ---
 
 
