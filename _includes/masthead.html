@@ -6,6 +6,9 @@
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
+            <img src="{{ base_path }}/images/logo.pdf"
+                alt=""
+                style="height: 40px; margin-right: 10px; vertical-align: middle;">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
           {% for link in site.data.navigation.main %}
