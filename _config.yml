@@ -23,7 +23,7 @@ repository               : "juliareuter/juliareuter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "grafik.png"
+  avatar           : "./grafik.png"
   name             : "Julia Reuter"
   pronouns         : # example: "she/her"  
   bio              : "Julia Reuter is a Postdoctoral Researcher in Computer Science at the Universidade Federal do ABC. Her researched is currently focused on Symbolic Regression, its practical applications and imprlications, including Bayesian methods and uncertainty quantification."
