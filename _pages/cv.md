@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 **Otto-von-Guericke University Magdeburg**
 *Ph.D. Student*
@@ -42,7 +42,15 @@ redirect_from:
 
 ---
 
-# Work Experience
+## Work Experience
+**Postdoctoral Researcher**
+*Universidade Federal do ABC, Santo André, Brazil*
+*Feb 2026 - today*
+
+- FAPESP scholarship-funded research project with the title *Uncertainty Quantification for Symbolic Regression: Towards Robust Models*
+- Methods from Bayesian and frequentist statistics for uncertainty quantification
+- Supervision of Bachelor and Master students
+- Lecture *Applied Machine Learning*
 
 **Scientific Researcher**
 *Otto-von-Guericke University Magdeburg*
@@ -76,7 +84,10 @@ redirect_from:
 
 ---
 
-# Scholarships and Awards
+## Scholarships and Awards
+
+**Scholarship *Postdoctoral Studies FAPESP***
+*Feb 2026 - today*
 
 **Bronze Award**
 *20th Annual "HUMIES" competition presented at GECCO'23 in Lisbon, Portugal*
