@@ -96,7 +96,7 @@ redirect_from:
 - Award for algorithms achieving human-competitive results, with the entry title *Towards Improving Simulations of Flows around Spherical Particles Using Genetic Programming*
 
 **Best Paper Award**\
-*Genetic Programming track of the evo* conference in Brno, Czech Republic*\
+*Genetic Programming track of the evoStar conference in Brno, Czech Republic*\
 *Apr 2023*
 
 - Paper title: *Graph Networks as Inductive Bias for Genetic Programming: Symbolic Models for Particle-Laden Flows*
