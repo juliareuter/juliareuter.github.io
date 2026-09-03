@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Julia Reuter"
 title_separator          : "-"
 name                     : &name "Julia Reuter"
@@ -26,7 +26,7 @@ author:
   avatar           : "./grafik.png"
   name             : "Julia Reuter"
   pronouns         : # example: "she/her"  
-  bio              : "Julia Reuter is a Postdoctoral Researcher in Computer Science at the Universidade Federal do ABC. Her researched is currently focused on Symbolic Regression, its practical applications and imprlications, including Bayesian methods and uncertainty quantification."
+  bio              : "Julia Reuter is a Postdoctoral Researcher in Computer Science at the Universidade Federal do ABC. Her researched is currently focused on Symbolic Regression, its practical applications and implications, including Bayesian methods and uncertainty quantification."
   location         : "Santo André, São Paulo"
   employer         : "Universidade Federal do ABC"
   uri              : # URL
