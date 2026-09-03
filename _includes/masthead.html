@@ -5,11 +5,15 @@
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
+          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}"
+              style="display: flex; align-items: center;">
+
             <img src="{{ base_path }}/images/logo.png"
                 alt=""
-                style="height: 40px; margin-right: 10px; vertical-align: middle;">
+                style="height: 45px; margin-right: 12px;">
+
             <a href="{{ base_path }}/">{{ site.title }}</a>
+
           </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
