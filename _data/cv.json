@@ -33,30 +33,39 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Universidade Federal do ABC, Santo André",
+      "area": "Postdoctoral Fellowship in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2026-02",
+      "endDate": "",
+      "gpa": "",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Otto-von-Guericke University Magdeburg",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "2021-10",
+      "endDate": "2025-01",
+      "gpa": "summa com laude",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Otto-von-Guericke University Magdeburg",
+      "area": "M.Sc. in Digital Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2018-10",
+      "endDate": "2021-09",
+      "gpa": "1.1",
+      "courses": []
+    },
+    {
+      "institution": "Duale Hochschule Baden-Wuerttemberg, Stuttgart",
+      "area": "B.S. in Mechanical Engineering",
+      "studyType": "",
+      "startDate": "2014-10",
+      "endDate": "2017-09",
+      "gpa": "1.5",
       "courses": []
     }
   ],
