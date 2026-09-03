@@ -20,7 +20,7 @@ The course will take place on the following dates in presence:\
 19/10/2026 - 14h00 às 16h00: Classification and Regression Trees \
 26/10/2026 - 14h00 às 16h00: Ensemble Methods and Advanced Evaluation Techniques\
 09/11/2026 - 14h00 às 16h00: Gradient Boosting\
-16/11/2026 - 14h00 às 16h00: Model Comparison and Selection\
+16/11/2026 - 14h00 às 16h00: Model Comparison and Selection
 
 ## Summary of the course in English:
 
